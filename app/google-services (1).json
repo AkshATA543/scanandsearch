@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959413645149",
+    "project_id": "scan-and-search-786fb",
+    "storage_bucket": "scan-and-search-786fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959413645149:android:aeb48ba176950a40f6c2b4",
+        "android_client_info": {
+          "package_name": "com.example.scanandsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959413645149-arrq1p8dbdeb3euujm2tta7nnpj86qnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF9lxcm_hDy1oip-TNsbeavD2TgKAPqr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959413645149-arrq1p8dbdeb3euujm2tta7nnpj86qnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
